@@ -1,0 +1,3 @@
+# Collins-et-al_BB-M001482-1_obj1
+Collins, D. H., Wirén, A., Labédan, M., Smith, M., Prince, D.C., Mohorianu, I., Dalmay, T., & Bourke, A. F. G. (2020). Gene expression in larval caste determination of bumblebees and the transition to advanced eusociality. 
+This GitHub project contains R script (under Supplementary File S3) and accompanying data files for reproduction of the analysis produced for the above study. Furter explanation of the methods used to generate these data are available in the accompanying mansuscript and detailed descriptions of the scripts are available in Supplementary File S3.
