@@ -1,0 +1,273 @@
+GeneName,GeneCode,GeneNumber,GeneID,Sample,Phenotype,Order,Development,ReadNumber
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mEQ3,EQ,1,Early,441.7
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mEQ1,EQ,1,Early,997.8
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mEQ2,EQ,1,Early,3900.4
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mEW3,EW,2,Early,93.9
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mEW2,EW,2,Early,245
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mEW1,EW,2,Early,1055.6
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mMQ1,MQ,3,Medium,12346.3
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mMQ4,MQ,3,Medium,18555.9
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mMQ2,MQ,3,Medium,22061.5
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mMW2,MW,4,Medium,27.8
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mMW1,MW,4,Medium,202.5
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mLQ1,LQ,5,Late,3633.1
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mLQ4,LQ,5,Late,4920
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mLQ2,LQ,5,Late,5359.9
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mLW2,LW,6,Late,65.3
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mLW3,LW,6,Late,109.1
+pancreatic lipase-related protein 2-like,plrp2,1,XM_003398387.2,mLW1,LW,6,Late,263.7
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mEQ2,EQ,1,Early,210.5
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mEQ1,EQ,1,Early,558.1
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mEQ3,EQ,1,Early,777.2
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mEW2,EW,2,Early,35.9
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mEW1,EW,2,Early,181.1
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mEW3,EW,2,Early,317.1
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mMQ4,MQ,3,Medium,36.8
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mMQ2,MQ,3,Medium,36.9
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mMQ1,MQ,3,Medium,609.1
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mMW2,MW,4,Medium,50.7
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mMW1,MW,4,Medium,134.7
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mLQ4,LQ,5,Late,0.9
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mLQ1,LQ,5,Late,5.5
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mLQ2,LQ,5,Late,7
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mLW2,LW,6,Late,149.6
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mLW3,LW,6,Late,241.2
+putative uncharacterized protein DDB_G0271606,unch.G0271606,2,XM_003399878.2,mLW1,LW,6,Late,700.3
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mEQ2,EQ,1,Early,10.9
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mEQ3,EQ,1,Early,16
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mEQ1,EQ,1,Early,47.2
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mEW1,EW,2,Early,17.1
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mEW2,EW,2,Early,28.5
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mEW3,EW,2,Early,38.9
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mMQ2,MQ,3,Medium,25.6
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mMQ1,MQ,3,Medium,32.6
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mMQ4,MQ,3,Medium,187.7
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mMW2,MW,4,Medium,3162.5
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mMW1,MW,4,Medium,3693.7
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mLQ1,LQ,5,Late,11294.6
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mLQ4,LQ,5,Late,20899.4
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mLQ2,LQ,5,Late,26511
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mLW1,LW,6,Late,9570.2
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mLW3,LW,6,Late,29399.3
+P17/29C-like protein DDB_G0287399,p17.29C,3,XM_003398794.2,mLW2,LW,6,Late,42070.2
+Hexamerin,Hex,4,XM_003401733.2,mEQ1,EQ,1,Early,5751.2
+Hexamerin,Hex,4,XM_003401733.2,mEQ2,EQ,1,Early,6032.1
+Hexamerin,Hex,4,XM_003401733.2,mEQ3,EQ,1,Early,6521.5
+Hexamerin,Hex,4,XM_003401733.2,mEW2,EW,2,Early,3194.4
+Hexamerin,Hex,4,XM_003401733.2,mEW3,EW,2,Early,4505
+Hexamerin,Hex,4,XM_003401733.2,mEW1,EW,2,Early,4840.7
+Hexamerin,Hex,4,XM_003401733.2,mMQ2,MQ,3,Medium,6385.3
+Hexamerin,Hex,4,XM_003401733.2,mMQ1,MQ,3,Medium,7762
+Hexamerin,Hex,4,XM_003401733.2,mMQ4,MQ,3,Medium,11397.8
+Hexamerin,Hex,4,XM_003401733.2,mMW2,MW,4,Medium,1114.4
+Hexamerin,Hex,4,XM_003401733.2,mMW1,MW,4,Medium,1200.5
+Hexamerin,Hex,4,XM_003401733.2,mLQ1,LQ,5,Late,2143.1
+Hexamerin,Hex,4,XM_003401733.2,mLQ4,LQ,5,Late,3833
+Hexamerin,Hex,4,XM_003401733.2,mLQ2,LQ,5,Late,4938.4
+Hexamerin,Hex,4,XM_003401733.2,mLW1,LW,6,Late,3383.7
+Hexamerin,Hex,4,XM_003401733.2,mLW2,LW,6,Late,4024.7
+Hexamerin,Hex,4,XM_003401733.2,mLW3,LW,6,Late,4626.5
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mEQ2,EQ,1,Early,421
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mEQ1,EQ,1,Early,425.7
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mEQ3,EQ,1,Early,448
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mEW3,EW,2,Early,299.2
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mEW1,EW,2,Early,390.1
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mEW2,EW,2,Early,409.1
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mMQ2,MQ,3,Medium,595.7
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mMQ4,MQ,3,Medium,629.5
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mMQ1,MQ,3,Medium,683.7
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mMW2,MW,4,Medium,199.7
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mMW1,MW,4,Medium,203.3
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mLQ2,LQ,5,Late,232.4
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mLQ1,LQ,5,Late,296.1
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mLQ4,LQ,5,Late,296.1
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mLW3,LW,6,Late,156.4
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mLW2,LW,6,Late,165.7
+Kruppel homolog-1,Kruppel,5,NM_001280921.1,mLW1,LW,6,Late,232.7
+Takeout,Takeout,6,XM_003397243.2,mEQ1,EQ,1,Early,893.8
+Takeout,Takeout,6,XM_003397243.2,mEQ2,EQ,1,Early,1372.1
+Takeout,Takeout,6,XM_003397243.2,mEQ3,EQ,1,Early,1379.1
+Takeout,Takeout,6,XM_003397243.2,mEW3,EW,2,Early,818.5
+Takeout,Takeout,6,XM_003397243.2,mEW1,EW,2,Early,1461.9
+Takeout,Takeout,6,XM_003397243.2,mEW2,EW,2,Early,1514.8
+Takeout,Takeout,6,XM_003397243.2,mMQ2,MQ,3,Medium,389.2
+Takeout,Takeout,6,XM_003397243.2,mMQ4,MQ,3,Medium,558.7
+Takeout,Takeout,6,XM_003397243.2,mMQ1,MQ,3,Medium,695.2
+Takeout,Takeout,6,XM_003397243.2,mMW2,MW,4,Medium,141.1
+Takeout,Takeout,6,XM_003397243.2,mMW1,MW,4,Medium,153.8
+Takeout,Takeout,6,XM_003397243.2,mLQ4,LQ,5,Late,41.5
+Takeout,Takeout,6,XM_003397243.2,mLQ1,LQ,5,Late,57.6
+Takeout,Takeout,6,XM_003397243.2,mLQ2,LQ,5,Late,62.1
+Takeout,Takeout,6,XM_003397243.2,mLW3,LW,6,Late,30.8
+Takeout,Takeout,6,XM_003397243.2,mLW2,LW,6,Late,31.7
+Takeout,Takeout,6,XM_003397243.2,mLW1,LW,6,Late,186.9
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mEQ3,EQ,1,Early,2002.5
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mEQ1,EQ,1,Early,3331.8
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mEQ2,EQ,1,Early,3331.8
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mEW3,EW,2,Early,2290.4
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mEW1,EW,2,Early,2507.9
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mEW2,EW,2,Early,3033.6
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mMQ1,MQ,3,Medium,3162.5
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mMQ4,MQ,3,Medium,4058.2
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mMQ2,MQ,3,Medium,4901.3
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mMW1,MW,4,Medium,1925
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mMW2,MW,4,Medium,2674.5
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mLQ4,LQ,5,Late,5359.9
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mLQ1,LQ,5,Late,5827.1
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mLQ2,LQ,5,Late,8744.4
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mLW3,LW,6,Late,2144.9
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mLW2,LW,6,Late,2513.6
+Cytochrome P450 6A1-like (LOC100649469),Cyt6A1.649469,7,XM_012315471.1,mLW1,LW,6,Late,2532.4
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mEQ2,EQ,1,Early,6.9
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mEQ3,EQ,1,Early,7.7
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mEQ1,EQ,1,Early,8.5
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mEW3,EW,2,Early,12.5
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mEW1,EW,2,Early,26.5
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mEW2,EW,2,Early,37.2
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mMQ1,MQ,3,Medium,47.9
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mMQ2,MQ,3,Medium,70.5
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mMQ4,MQ,3,Medium,83.5
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mMW2,MW,4,Medium,269.8
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mMW1,MW,4,Medium,355.3
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mLQ2,LQ,5,Late,432.2
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mLQ1,LQ,5,Late,587.6
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mLQ4,LQ,5,Late,648.7
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mLW1,LW,6,Late,340.5
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mLW3,LW,6,Late,400.7
+Cytochrome P450 6k1-like (LOC100642936),Cyt6k1.642936,8,XM_012314843.1,mLW2,LW,6,Late,597.9
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mEQ1,EQ,1,Early,0
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mEQ2,EQ,1,Early,0.8
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mEQ3,EQ,1,Early,1.2
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mEW3,EW,2,Early,0.4
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mEW2,EW,2,Early,1.9
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mEW1,EW,2,Early,2.5
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mMQ2,MQ,3,Medium,5
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mMQ1,MQ,3,Medium,9.4
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mMQ4,MQ,3,Medium,14.9
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mMW2,MW,4,Medium,23.2
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mMW1,MW,4,Medium,28.5
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mLQ1,LQ,5,Late,248.2
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mLQ4,LQ,5,Late,256
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mLQ2,LQ,5,Late,399.2
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mLW1,LW,6,Late,55.7
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mLW3,LW,6,Late,62.4
+Cytochrome P450 6K1-like (LOC100648995),Cyt6k1.648995,9,XM_012314831.1,mLW2,LW,6,Late,69.1
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mEQ1,EQ,1,Early,146.8
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mEQ3,EQ,1,Early,162.8
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mEQ2,EQ,1,Early,167
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mEW3,EW,2,Early,109
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mEW2,EW,2,Early,150.1
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mEW1,EW,2,Early,167.6
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mMQ2,MQ,3,Medium,352.9
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mMQ4,MQ,3,Medium,967.1
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mMQ1,MQ,3,Medium,1272.8
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mMW2,MW,4,Medium,68.8
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mMW1,MW,4,Medium,113.7
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mLQ2,LQ,5,Late,64.5
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mLQ4,LQ,5,Late,111.5
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mLQ1,LQ,5,Late,112.9
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mLW1,LW,6,Late,128.9
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mLW2,LW,6,Late,133.2
+Cytochrome P450 305A1 (LOC100647578),Cyt305A1.647578,10,XM_003396620.2,mLW3,LW,6,Late,178.8
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.640031,11,XM_012319905.1,mEQ1,EQ,1,Early,24.7
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mEQ1,EQ,1,Early,32.5
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mEQ2,EQ,1,Early,36.2
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mEQ3,EQ,1,Early,46.9
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mEW3,EW,2,Early,36.5
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mEW2,EW,2,Early,72.8
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mEW1,EW,2,Early,89.7
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mMQ1,MQ,3,Medium,238.2
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mMQ2,MQ,3,Medium,273.9
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mMQ4,MQ,3,Medium,332.2
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mMW2,MW,4,Medium,35.2
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mMW1,MW,4,Medium,55.3
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mLQ2,LQ,5,Late,183
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mLQ4,LQ,5,Late,217.3
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mLQ1,LQ,5,Late,244.4
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mLW3,LW,6,Late,4.9
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mLW2,LW,6,Late,7.9
+nose resistant to fluoxetine protein 6-like (LOC100640031),Nos.res.640031,11,XM_012321236.1,mLW1,LW,6,Late,46.2
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mEQ2,EQ,1,Early,29.1
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mEQ3,EQ,1,Early,31.7
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mEW3,EW,2,Early,19.9
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mEW1,EW,2,Early,78.2
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mEW2,EW,2,Early,79.5
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mMQ2,MQ,3,Medium,195.3
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mMQ1,MQ,3,Medium,257.6
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mMQ4,MQ,3,Medium,324.1
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mMW2,MW,4,Medium,12.8
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mMW1,MW,4,Medium,39.2
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mLQ2,LQ,5,Late,419.3
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mLQ1,LQ,5,Late,441.2
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mLQ4,LQ,5,Late,481
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mLW2,LW,6,Late,13.6
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mLW3,LW,6,Late,15.4
+nose resistant to fluoxetine protein 6-like (LOC100645614),Nos.res.645614,12,XM_012319905.1,mLW1,LW,6,Late,40
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mEQ1,EQ,1,Early,406.1
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mEQ3,EQ,1,Early,487.2
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mEQ2,EQ,1,Early,492.1
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mEW1,EW,2,Early,349.6
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mEW2,EW,2,Early,381.3
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mEW3,EW,2,Early,402.3
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mMQ1,MQ,3,Medium,301.9
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mMQ4,MQ,3,Medium,559.1
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mMQ2,MQ,3,Medium,567.1
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mMW1,MW,4,Medium,348.6
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mMW2,MW,4,Medium,696.4
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mLQ1,LQ,5,Late,6843.3
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mLQ2,LQ,5,Late,8269.4
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mLQ4,LQ,5,Late,8626
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mLW1,LW,6,Late,618.2
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mLW2,LW,6,Late,826.3
+chymotrypsin 2,Chymotry2,13,XM_012309549.1,mLW3,LW,6,Late,1083.3
+Yellow protein,Yellow,14,XM_003399634.2,mEQ2,EQ,1,Early,50.4
+Yellow protein,Yellow,14,XM_003399634.2,mEQ1,EQ,1,Early,71.9
+Yellow protein,Yellow,14,XM_003399634.2,mEQ3,EQ,1,Early,114.8
+Yellow protein,Yellow,14,XM_003399634.2,mEW3,EW,2,Early,72.1
+Yellow protein,Yellow,14,XM_003399634.2,mEW2,EW,2,Early,82.6
+Yellow protein,Yellow,14,XM_003399634.2,mEW1,EW,2,Early,88.8
+Yellow protein,Yellow,14,XM_003399634.2,mMQ4,MQ,3,Medium,16
+Yellow protein,Yellow,14,XM_003399634.2,mMQ2,MQ,3,Medium,18.9
+Yellow protein,Yellow,14,XM_003399634.2,mMQ1,MQ,3,Medium,22.4
+Yellow protein,Yellow,14,XM_003399634.2,mMW1,MW,4,Medium,62.7
+Yellow protein,Yellow,14,XM_003399634.2,mMW2,MW,4,Medium,67.1
+Yellow protein,Yellow,14,XM_003399634.2,mLQ4,LQ,5,Late,24.2
+Yellow protein,Yellow,14,XM_003399634.2,mLQ2,LQ,5,Late,24.3
+Yellow protein,Yellow,14,XM_003399634.2,mLQ1,LQ,5,Late,27.4
+Yellow protein,Yellow,14,XM_003399634.2,mLW3,LW,6,Late,19.4
+Yellow protein,Yellow,14,XM_003399634.2,mLW1,LW,6,Late,28.9
+Yellow protein,Yellow,14,XM_003399634.2,mLW2,LW,6,Late,30.2
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mEQ3,EQ,1,Early,69.8
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mEQ1,EQ,1,Early,86.7
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mEQ2,EQ,1,Early,91.3
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mEW2,EW,2,Early,73.4
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mEW3,EW,2,Early,78.3
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mEW1,EW,2,Early,83.4
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mMQ1,MQ,3,Medium,68.5
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mMQ4,MQ,3,Medium,73.3
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mMQ2,MQ,3,Medium,77.9
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mMW2,MW,4,Medium,69.8
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mMW1,MW,4,Medium,71.5
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mLQ2,LQ,5,Late,68.8
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mLQ1,LQ,5,Late,73.5
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mLQ4,LQ,5,Late,74
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mLW1,LW,6,Late,72.6
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mLW2,LW,6,Late,86.2
+DNA methyltransferase 3,dnmt3,15,XM_012317511.1,mLW3,LW,6,Late,87.3
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mEQ2,EQ,1,Early,18.2
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mEQ3,EQ,1,Early,20.2
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mEQ1,EQ,1,Early,99.6
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mEW1,EW,2,Early,14.6
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mEW2,EW,2,Early,15.3
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mEW3,EW,2,Early,20
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mMQ2,MQ,3,Medium,31.4
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mMQ1,MQ,3,Medium,68.7
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mMQ4,MQ,3,Medium,287.5
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mMW2,MW,4,Medium,21.2
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mMW1,MW,4,Medium,45.3
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mLQ1,LQ,5,Late,21412.4
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mLQ4,LQ,5,Late,27414.8
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mLQ2,LQ,5,Late,28666
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mLW1,LW,6,Late,9904.6
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mLW2,LW,6,Late,26958.7
+Very High Density Lipoprotein,VHDL,16,NM_001331111.1,mLW3,LW,6,Late,43340.6

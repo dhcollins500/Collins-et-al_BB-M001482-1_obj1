@@ -1,0 +1,201 @@
+Gene,Phenotype,Status,Order,Age
+NW_003568470.1_7_877,LQ,Novel coding transcript,1,late
+NC_015769.1_4820898_4822627,LQ,Novel non-coding transcript,2,late
+NC_015771.1_3152030_3152362,LQ,Novel non-coding transcript,2,late
+NW_003568631.1_1_612,LQ,Novel non-coding transcript,2,late
+NC_015778.1_482243_482837,LQ,Novel non-coding transcript,2,late
+NC_015764.1_10238131_10241059,LQ,Unannotated not novel transcript,3,late
+NC_015763.1_11235629_11239608,LQ,Unannotated not novel transcript,3,late
+NC_015763.1_6338074_6346801,LQ,Unannotated not novel transcript,3,late
+NC_015770.1_12905435_12907153,LQ,Unannotated not novel transcript,3,late
+NW_003566526.1_1902_3818,LQ,Unannotated not novel transcript,3,late
+NC_015764.1_10165373_10181599,LQ,Unannotated not novel transcript,3,late
+NC_015774.1_5145354_5146192,LQ,Unannotated not novel transcript,3,late
+NC_015777.1_4620388_4620973,LQ,Unannotated not novel transcript,3,late
+NW_003568489.1_1_1068,LQ,Unannotated not novel transcript,3,late
+NW_003565676.1_5485_6014,LQ,Unannotated not novel transcript,3,late
+NW_003565557.1_44006_46418,LQ,Annotated transcript,4,late
+NC_015767.1_10428321_10672051,LQ,Annotated transcript,4,late
+NC_015769.1_4790925_4844239,LQ,Annotated transcript,4,late
+NC_015771.1_3137226_3141484,LQ,Annotated transcript,4,late
+NC_015772.1_3772353_3775563,LQ,Annotated transcript,4,late
+NC_015764.1_10254752_10258688,LQ,Annotated transcript,4,late
+NC_015764.1_10241255_10243195,LQ,Annotated transcript,4,late
+NC_015765.1_1212762_1214427,LQ,Annotated transcript,4,late
+NW_003567385.1_551_1034,LQ,Annotated transcript,4,late
+NW_003566949.1_1081_1564,LQ,Annotated transcript,4,late
+NC_015772.1_724225_733475,LQ,Annotated transcript,4,late
+NC_015772.1_5395367_5397934,LQ,Annotated transcript,4,late
+NW_003565557.1_26160_29185,LQ,Annotated transcript,4,late
+NC_015769.1_7559514_7562808,LQ,Annotated transcript,4,late
+NC_015769.1_7563046_7568254,LQ,Annotated transcript,4,late
+NC_015773.1_10266169_10268122,LQ,Annotated transcript,4,late
+NC_015773.1_10270623_10273991,LQ,Annotated transcript,4,late
+NW_003568878.1_25_931,LQ,Annotated transcript,4,late
+NW_003569632.1_26_1122,LQ,Annotated transcript,4,late
+NC_015774.1_8595443_8598918,LQ,Annotated transcript,4,late
+NC_015767.1_10624627_10627639,LQ,Annotated transcript,4,late
+NC_015765.1_12833920_12836958,LQ,Annotated transcript,4,late
+NW_003566548.1_26374_46056,LQ,Annotated transcript,4,late
+NC_015767.1_1054083_1068174,LQ,Annotated transcript,4,late
+NC_015771.1_3045554_3144288,LQ,Annotated transcript,4,late
+NC_015771.1_9108635_9108849,LW,Novel non-coding transcript,2,late
+NW_003565415.1_68987_69283 ,LW,Novel non-coding transcript,2,late
+NW_003565415.1_73539_74047,LW,Novel non-coding transcript,2,late
+NW_003570464.1_639_925,LW,Novel non-coding transcript,2,late
+NC_015764.1_6688167_6688610 ,LW,Novel non-coding transcript,2,late
+NC_015773.1_6836828_6837290 ,LW,Novel non-coding transcript,2,late
+NC_015764.1_12810697_12811120 ,LW,Novel non-coding transcript,2,late
+NC_015773.1_6839121_6841995,LW,Unannotated not novel transcript,3,late
+NW_003566045.1_104220_104817 ,LW,Unannotated not novel transcript,3,late
+NW_003566082.1_14813_15171,LW,Unannotated not novel transcript,3,late
+NW_003570107.1_1_628 ,LW,Unannotated not novel transcript,3,late
+NC_015771.1_3163864_3167718,LW,Annotated transcript,4,late
+NC_015768.1_6580879_6587965,LW,Annotated transcript,4,late
+NW_003566591.1_148357_151275,LW,Annotated transcript,4,late
+NW_003568470.1_7_877,MQ,Novel coding transcript,1,mid
+NC_015763.1_6359773_6362415,MQ,Novel non-coding transcript,2,mid
+NC_015771.1_3152030_3152362 ,MQ,Novel non-coding transcript,2,mid
+NC_015764.1_11089645_11090729 ,MQ,Novel non-coding transcript,2,mid
+NC_015768.1_17011118_17014312 ,MQ,Novel non-coding transcript,2,mid
+NW_003569707.1_46_541 ,MQ,Novel non-coding transcript,2,mid
+NW_003569946.1_6_673 ,MQ,Novel non-coding transcript,2,mid
+NC_015764.1_10238131_10241059,MQ,Unannotated not novel transcript,3,mid
+NC_015776.1_3627415_3629700,MQ,Unannotated not novel transcript,3,mid
+NC_015771.1_1527014_1528641,MQ,Unannotated not novel transcript,3,mid
+NW_003566526.1_1902_3818,MQ,Unannotated not novel transcript,3,mid
+NC_015764.1_10165373_10181599,MQ,Unannotated not novel transcript,3,mid
+NC_015764.1_8677570_8678513 ,MQ,Unannotated not novel transcript,3,mid
+NC_015765.1_2486623_2487371 ,MQ,Unannotated not novel transcript,3,mid
+NC_015765.1_2495099_2495655 ,MQ,Unannotated not novel transcript,3,mid
+NC_015770.1_3659628_3660348,MQ,Unannotated not novel transcript,3,mid
+NC_015774.1_7481321_7481757 ,MQ,Unannotated not novel transcript,3,mid
+NW_003565777.1_231_968 ,MQ,Unannotated not novel transcript,3,mid
+NW_003569368.1_70_910,MQ,Unannotated not novel transcript,3,mid
+Combined_NW_003567937.1_2_424_ NW_003567937.1_449_775,MQ,Unannotated not novel transcript,3,mid
+Combined_NW_003568514.1_1_229_NW_003568514.1_236_572 ,MQ,Unannotated not novel transcript,3,mid
+Combined_NW_003570889.1_1_297_ NW_003570889.1_356_696,MQ,Unannotated not novel transcript,3,mid
+NC_015777.1_2971753_2985774,MQ,Annotated transcript,4,mid
+NW_003566135.1_1387093_1390168,MQ,Annotated transcript,4,mid
+NC_015770.1_7042380_7047282,MQ,Annotated transcript,4,mid
+NC_015764.1_4416927_4424286,MQ,Annotated transcript,4,mid
+NC_015768.1_13169118_13184778,MQ,Annotated transcript,4,mid
+NC_015772.1_14946690_14950657,MQ,Annotated transcript,4,mid
+NC_015769.1_4473080_4479231,MQ,Annotated transcript,4,mid
+NW_003566337.1_93_4609,MQ,Annotated transcript,4,mid
+NC_015768.1_4736229_4741671,MQ,Annotated transcript,4,mid
+NC_015768.1_4742166_4745530,MQ,Annotated transcript,4,mid
+NC_015762.1_7539982_7540770,MQ,Annotated transcript,4,mid
+NC_015771.1_3137226_3141484,MQ,Annotated transcript,4,mid
+NC_015764.1_10241255_10243195,MQ,Annotated transcript,4,mid
+NC_015764.1_10150985_10155037,MQ,Annotated transcript,4,mid
+NC_015764.1_10254752_10258688,MQ,Annotated transcript,4,mid
+NC_015765.1_2490563_2492637,MQ,Annotated transcript,4,mid
+NC_015770.1_9450268_9451697,MQ,Annotated transcript,4,mid
+NC_015777.1_4103831_4107629,MQ,Annotated transcript,4,mid
+NC_015772.1_2431712_2441570,MQ,Annotated transcript,4,mid
+NC_015773.1_5908624_5913137,MQ,Annotated transcript,4,mid
+NW_003565702.1_4661_4969,MQ,Annotated transcript,4,mid
+NC_015769.1_5235044_5245163,MQ,Annotated transcript,4,mid
+NC_015776.1_3633957_3636554,MQ,Annotated transcript,4,mid
+NC_015766.1_8097203_8103084,MQ,Annotated transcript,4,mid
+NC_015772.1_16038359_16041849,MQ,Annotated transcript,4,mid
+NC_015775.1_3270154_3271584,MQ,Annotated transcript,4,mid
+NC_015767.1_2698404_2700314,MQ,Annotated transcript,4,mid
+NC_015770.1_13488361_13493334,MQ,Annotated transcript,4,mid
+NC_015772.1_1091520_1107559,MQ,Annotated transcript,4,mid
+NC_015768.1_15383038_15385558,MQ,Annotated transcript,4,mid
+NC_015770.1_1089710_1091504,MQ,Annotated transcript,4,mid
+NC_015771.1_3045554_3144288,MQ,Annotated transcript,4,mid
+NW_003566532.1_6054_6308 ,MW,Novel non-coding transcript,2,mid
+NW_003566567.1_1_207 ,MW,Novel non-coding transcript,2,mid
+NW_003565415.1_147383_147647,MW,Novel non-coding transcript,2,mid
+NW_003570323.1_319_600,MW,Novel non-coding transcript,2,mid
+NW_003566392.1_12836_13581 ,MW,Novel non-coding transcript,2,mid
+NW_003566392.1_10084_10717 ,MW,Novel non-coding transcript,2,mid
+NW_003566051.1_27612_28072 ,MW,Novel non-coding transcript,2,mid
+NW_003570251.1_1_205 ,MW,Novel non-coding transcript,2,mid
+NW_003566402.1_16205_16626,MW,Novel non-coding transcript,2,mid
+NW_003565578.1_15852_16245 ,MW,Novel non-coding transcript,2,mid
+NW_003566392.1_107329_108415 ,MW,Novel non-coding transcript,2,mid
+NW_003566392.1_117210_118602 ,MW,Novel non-coding transcript,2,mid
+NW_003568569.1_34_1912 ,MW,Novel non-coding transcript,2,mid
+NW_003566310.1_2148_2480 ,MW,Novel non-coding transcript,2,mid
+NW_003570241.1_212_817,MW,Unannotated not novel transcript,3,mid
+NW_003569590.1_181_1803,MW,Unannotated not novel transcript,3,mid
+NW_003566591.1_14033_16443,MW,Unannotated not novel transcript,3,mid
+NC_015773.1_9147329_9148959,MW,Unannotated not novel transcript,3,mid
+NW_003566126.1_931407_932585,MW,Unannotated not novel transcript,3,mid
+NC_015776.1_10821399_10824165,MW,Unannotated not novel transcript,3,mid
+NC_015770.1_14064922_14069970,MW,Unannotated not novel transcript,3,mid
+NC_015770.1_14055769_14060379,MW,Unannotated not novel transcript,3,mid
+NC_015775.1_1188284_1191363,MW,Unannotated not novel transcript,3,mid
+NC_015771.1_1524712_1526197,MW,Unannotated not novel transcript,3,mid
+NW_003566109.1_182735_182941,MW,Unannotated not novel transcript,3,mid
+NW_003566082.1_14813_15171,MW,Unannotated not novel transcript,3,mid
+NW_003566071.1_499_771,MW,Unannotated not novel transcript,3,mid
+NW_003567028.1_105_327 ,MW,Unannotated not novel transcript,3,mid
+NW_003567028.1_801_1078 ,MW,Unannotated not novel transcript,3,mid
+NW_003565683.1_17908_18179 ,MW,Unannotated not novel transcript,3,mid
+NW_003566559.1_125_356,MW,Unannotated not novel transcript,3,mid
+NW_003566428.1_1775_1985,MW,Unannotated not novel transcript,3,mid
+NW_003570107.1_1_628 ,MW,Unannotated not novel transcript,3,mid
+NC_015764.1_6688167_6688610 ,MW,Unannotated not novel transcript,3,mid
+NW_003566082.1_16824_21043 ,MW,Unannotated not novel transcript,3,mid
+NW_003565443.1_986853_987131,MW,Unannotated not novel transcript,3,mid
+NW_003566538.1_1206_1438,MW,Unannotated not novel transcript,3,mid
+NW_003566135.1_62598_62999,MW,Unannotated not novel transcript,3,mid
+NW_003566109.1_179772_180002 ,MW,Unannotated not novel transcript,3,mid
+NC_015770.1_2462213_2462450 ,MW,Unannotated not novel transcript,3,mid
+NW_003566533.1_1559_1963 ,MW,Unannotated not novel transcript,3,mid
+NW_003566430.1_254_471 ,MW,Unannotated not novel transcript,3,mid
+NW_003568322.1_527_834,MW,Unannotated not novel transcript,3,mid
+NW_003566068.1_954_1587,MW,Unannotated not novel transcript,3,mid
+NW_003566044.1_232183_232408 ,MW,Unannotated not novel transcript,3,mid
+NC_015778.1_728331_730698 ,MW,Unannotated not novel transcript,3,mid
+NW_003566548.1_68963_69363 ,MW,Unannotated not novel transcript,3,mid
+NW_003568913.1_2_604,MW,Unannotated not novel transcript,3,mid
+NW_003566548.1_70370_70612 ,MW,Unannotated not novel transcript,3,mid
+NC_015770.1_14734826_14735042,MW,Unannotated not novel transcript,3,mid
+NW_003569469.1_989_1280 ,MW,Unannotated not novel transcript,3,mid
+NW_003566421.1_5_273 ,MW,Unannotated not novel transcript,3,mid
+NW_003565429.1_998_1237 ,MW,Unannotated not novel transcript,3,mid
+NC_015775.1_4401317_4401726 ,MW,Unannotated not novel transcript,3,mid
+NW_003570404.1_512_781,MW,Unannotated not novel transcript,3,mid
+Combined_NW_003566430.1_1342_1550_NW_003566430.1_1560_1882,MW,Unannotated not novel transcript,3,mid
+Combined_ NW_003566484.1_500_835_NW_003566484.1_956_1360,MW,Unannotated not novel transcript,3,mid
+NC_015774.1_1138443_1155576,MW,Annotated transcript,4,mid
+NC_015773.1_8155580_8156578,MW,Annotated transcript,4,mid
+NC_015772.1_6823653_6833868,MW,Annotated transcript,4,mid
+NC_015771.1_1512923_1524641,MW,Annotated transcript,4,mid
+NW_003566082.1_28365_29984,MW,Annotated transcript,4,mid
+NW_003566521.1_318_1901,MW,Annotated transcript,4,mid
+NW_003566402.1_17423_17962,MW,Annotated transcript,4,mid
+NW_003566402.1_40433_42001,MW,Annotated transcript,4,mid
+NC_015772.1_3820761_3823080,MW,Annotated transcript,4,mid
+NW_003565979.1_101208_102105,MW,Annotated transcript,4,mid
+NC_015773.1_11570834_11583050,MW,Annotated transcript,4,mid
+NC_015777.1_3837406_3839960,MW,Annotated transcript,4,mid
+NC_015773.1_12803250_12806027,MW,Annotated transcript,4,mid
+NW_003566126.1_900832_957614,MW,Annotated transcript,4,mid
+NC_015770.1_3430376_3431260,MW,Annotated transcript,4,mid
+NW_003567140.1_2_1602,MW,Annotated transcript,4,mid
+NW_003566591.1_154845_159461,MW,Annotated transcript,4,mid
+NW_003566591.1_148357_151275,MW,Annotated transcript,4,mid
+NC_015778.1_743384_746560,MW,Annotated transcript,4,mid
+NW_003565426.1_918418_918958,MW,Annotated transcript,4,mid
+NC_015763.1_3838250_3840620,MW,Annotated transcript,4,mid
+NC_015773.1_75377_97543,MW,Annotated transcript,4,mid
+NC_015763.1_8068073_8072797,MW,Annotated transcript,4,mid
+NC_015773.1_10231842_10238223,MW,Annotated transcript,4,mid
+NC_015773.1_10241749_10246428,MW,Annotated transcript,4,mid
+NC_015773.1_10248242_10252788,MW,Annotated transcript,4,mid
+NC_015775.1_158184_158770,MW,Annotated transcript,4,mid
+NC_015770.1_14103731_14108442,MW,Annotated transcript,4,mid
+NC_015775.1_1623826_1626494,MW,Annotated transcript,4,mid
+NC_015774.1_8055053_8058493,MW,Annotated transcript,4,mid
+NC_015765.1_8124568_8133102,MW,Annotated transcript,4,mid
+NC_015764.1_14164685_14166014,MW,Annotated transcript,4,mid
+NC_015772.1_3712247_3716247,MW,Annotated transcript,4,mid
+NW_003566591.1_142411_146217,MW,Annotated transcript,4,mid
+NW_003566591.1_180278_183051,MW,Annotated transcript,4,mid
