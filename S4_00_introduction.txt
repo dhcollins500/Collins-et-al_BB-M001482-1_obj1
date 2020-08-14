@@ -1,0 +1,74 @@
+Supplementary File S4 Introduction
+
+Supplementary file S4 contains the scripts necesary to reproduce the comparison
+of the lists of differentially expressed genes (DEGs) produced by three RNA-Seq
+analysis methods on the same RNA-Seq data from the current study. These three 
+methods are:
+1) the pipeline presented in the current study based on Mohorianu et al. 2017, PLoS One.
+2) a pipeline of Kallisto, tximport and DESeq2.
+3) a pipeline of HISAT2, HTSeq-count and DESeq2.
+
+The lists of DEGs from the current study are taken from Table S9 of the manuscript,
+with each table being included in this GitHub repository as a .csv file. The lists
+of DEGs for methods 2 and 3 are produced by the scripts in this repository.
+
+The analysis assumes that the GitHub repository and raw RNA-Seq read files have been 
+downloaded from https://github.com/dhcollins500/Collins-et-al_BB-M001482-1_obj1 and 
+GEO GSE90751 respectively.
+
+Software used for analysis:
+DESeq2 v1.28.1 (R package)
+HISAT2 v2.1.0
+HTSeq v0.11.2 (python library) 
+Kallisto v0.46.1
+MultiQC v1.9 (python module)
+python v3.7 
+R v4.0.1
+samtools v1.10
+tximport v1.16.1 (R package)
+
+Software used for figure generation:
+eulerr v6.1.0 (R package)
+ggplot2 v3.3.2 (R package)
+ggplotify v0.0.5 (R package)
+ggpubr v0.4.0 (R package)
+R v4.0.1
+reshape2 v1.4.4 (R package)
+
+Overview of the numbered scripts:
+
+General note: Scripts S4_01, S4_11 and S4_22 require the user to change a file path to make it
+			  specific to their own computer. These instances are highlighted with CHANGE
+			  or CHANGED in the comments.
+
+Scripts S4_01 to S4_05 perform necesary preliminary tasks such as downloading genome
+related files and indexing them.
+S4_01: Initiates directory structure for the rest of the analysis, moves the scripts,
+	   current study gene lists and previously downloaded RNA-Seq data into the 
+	   correct directories.
+S4_02: Downloads genome sequence, transcriptome and GTF files for Bombus terrestris.
+S4_03: Verifies that the downloaded files are complete using checksums.
+S4_04: Indexes the genome and transcriptome for HISAT2 and kallisto respectively.
+S4_05: Uses the Bombus terrestris GTF to produce a file linking transcript and gene IDs,
+	   for use with tximport.
+Scripts S4_10 and S4_11 pseudoalign the RNA-Seq reads to the Bombus terrestris transcriptome,
+import then into R, and generate a DESeq2 object ready for further investigation.
+S4_10: Pseudoaligns Bombus terrestris reads to transcriptome with Kallisto.
+S4_11: Gene level counts are summarized from the Kallisto transcript counts using tximport,
+	   and then a DESeq2 object is generated.
+Scripts S4_20 to S4_22 align the RNA-Seq reads to the Bombus terrestris genome using HISAT2,
+counts the reads per gene with HTSeq-count, import these counts into R and generate a DESeq2 
+object ready for further investigation.
+S4_20: Aligns RNA-Seq reads to Bombus terrestris genome using HISAT2.
+S4_21: Counts reads per gene with HTSeq-count.
+S4_22: Imports HTSeq results into R and then a DESeq2 object is generated.
+Scripts S4_30 to S4_32 generate diagnostic plots for the differential expression analyses with 
+methods 2 and 3 (Kallisto and HISAT2/HTSeq) and generate lists of DEGs.
+S4_30: Generates principal component analysis (PCA) and normalization boxplot for the Kallisto and HISAT2/HTSeq methods.
+S4_31: Generates lists of DEGs for the Kallisto and HISAT2/HTSeq methods.
+S4_32: Generates lists of DEGs for the method used in the current study.
+Scripts S4_40 and S4_41 compare the lists of DEGs from the three methods and summarise the results.
+S4_40: Compares the lists of DEGs between the current study method, Kallisto method and HISAT2/HTSeq method	
+	   and produces a table of the results.
+S4_41: Generates Euler diagrams to graphically represent the results of the DEGs comparison.
+
