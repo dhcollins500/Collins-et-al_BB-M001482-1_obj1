@@ -8,7 +8,7 @@
 # checksums generated from the downloaded files.
 #-------------------------------------------------------------------------------
 # Inputs:
-# Bombus terrestrus fasta and annotation files, and associated checksum files, downloaded
+# Bombus terrestris fasta and annotation files, and associated checksum files, downloaded
 # from Ensembl using script 02.
 #
 # Outputs:
