@@ -3,10 +3,10 @@
 # Project: Collins et al. 2020
 # Analysis: RNA-Seq method comparison
 # Tasks: Produce data.frames of differentially expressed genes (DEGs) from 
-# current study Table S9.
+# current study Table S10.
 #-------------------------------------------------------------------------------
 # Inputs:
-# Table S9 tabs in .csv format.
+# Table S10 tabs in .csv format.
 
 # Outputs:
 # Character vectors of DEGs. 
@@ -45,7 +45,7 @@ isolateDEGs <- function(x, y = "DEGs") {
 	
 	# Load appropriate .csv file
 	
-	fileToLoad <- paste0("Table_S9_", x, ".csv")
+	fileToLoad <- paste0("Table_S10_", x, ".csv")
 	
 	geneExpressionDF <- read.csv(fileToLoad)
 
@@ -84,7 +84,7 @@ isolateDEGs <- function(x, y = "DEGs") {
 # NOTE: This script assumes that the working directory is the 01_scripts subdirectory
 # created by script S4_01.
 
-setwd("../00_data/20_table_s9_csvs")
+setwd("../00_data/20_table_s10_csvs")
 
 # Generate Current Study Gene Lists ----
 

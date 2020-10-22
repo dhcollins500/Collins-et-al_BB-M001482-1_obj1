@@ -46,7 +46,7 @@ mkdir 01_fasta
 mkdir 02_gtf
 mkdir 03_sums
 mkdir 10_transcripts2genes
-mkdir 20_table_s9_csvs
+mkdir 20_table_s10_csvs
 
 # STEP 2: MOVE SCRIPTS TO CORRECT SUBDIRECTORY ----
 
@@ -75,6 +75,6 @@ rm -f S4_RNA_seq_comparison/00_data/00_fastq/16_LQ3.fastq.gz
 
 # STEP 4: MOVE CURRENT STUDY GENE LISTS TO CORRECT SUBDIRECTORY ----
 
-# Move the gene lists (Table_S9_xx.csv).
+# Move the gene lists (Table_S10_xx.csv).
 
-mv Table_S9*.csv S4_RNA_seq_comparison/00_data/20_table_s9_csvs
+mv Table_S10*.csv S4_RNA_seq_comparison/00_data/20_table_s10_csvs
