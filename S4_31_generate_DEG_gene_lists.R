@@ -9,6 +9,7 @@
 
 # Outputs:
 # .csv files containing lists of DEGs for a given method/caste/time point.
+# .csv file containing all genes expressed in ddsHTSeq (background list).
 #-------------------------------------------------------------------------------
 
 # LOADING PACKAGES ----
@@ -148,6 +149,25 @@ dir.create("../60_HISAT2_HTSeq_DEG_lists")
 # Will produce a warning if directory already exists.
 
 setwd("../60_HISAT2_HTSeq_DEG_lists")
+
+# Generate a list of all expressed genes for statistical test background list.
+
+# Extract results from ddsHTSeq.
+
+htseqResults <- results(ddsHTSeq)
+
+# Generate data.frame of the row names (i.e. the expressed genes).
+
+allHTSeqGenes <- as.data.frame(row.names(htseqResults))
+
+# Correct column name.
+
+colnames(allHTSeqGenes) <- "Gene"
+
+# Save data.frame as .csv.
+
+write.csv(allHTSeqGenes, "collins_htseq_background_genelist.csv",
+          row.names = FALSE)
 
 # Index DESeq2 results into individual lists.
 
