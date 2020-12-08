@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Author: David Prince
-# Project: Collins et al. 2020
-# Analysis: RNA-Seq method comparison
+# Project: Collins et al. (2020)
+# Analysis: mRNA-seq method comparison
 # Tasks: Produce principal component analysis and normalization boxplot
 # from Kallisto and HISAT2/HTSeq data.
 #-------------------------------------------------------------------------------
@@ -31,7 +31,7 @@ source("S4_11_kallisto_tximport_DESeq2.R")
 
 setwd("../../01_scripts")
 
-source("S4_22_htseq_DESeq2.R")
+source("S4_22_HTSeq_DESeq2.R")
 sessionInfo()
 
 # FUNCTION DEFINITIONS ----

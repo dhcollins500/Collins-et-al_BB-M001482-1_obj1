@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Author: David Prince
-# Project: Collins et al. 2020
-# Analysis: RNA-Seq method comparison
+# Project: Collins et al. (2020)
+# Analysis: mRNA-seq method comparison
 # Tasks: Summarise transcript-level counts to gene level and create DESeq2
 # data set.
 #-------------------------------------------------------------------------------
@@ -39,7 +39,7 @@ t2g <- read.table(file = "transcripts2genesBter.txt",
 
 # Set Internal Variables ----
 
-baseDir <- "PATH/TO/FILES/02_outputs/10_kallisto_pseudoalignments"
+baseDir <- "ABSOLUTE/PATH/TO/FILES/02_outputs/10_kallisto_pseudoalignments"
 # This string is specific to your computer, PLEASE CHANGE accordingly.
 
 abundanceDir <- "abundances"

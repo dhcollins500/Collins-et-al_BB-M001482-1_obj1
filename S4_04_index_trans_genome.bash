@@ -2,8 +2,8 @@
 #
 #-------------------------------------------------------------------------------
 # Author: David Prince
-# Project: Collins et al. 2020
-# Analysis: RNA-Seq method comparison
+# Project: Collins et al. (2020)
+# Analysis: mRNA-seq method comparison
 # Tasks: Index transcriptome and genome with appropriate software.
 #-------------------------------------------------------------------------------
 # Inputs:

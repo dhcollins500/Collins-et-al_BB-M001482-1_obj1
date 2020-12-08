@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Author: David Prince
-# Project: Collins et al. 2020
-# Analysis: RNA-Seq method comparison
+# Project: Collins et al. (2020)
+# Analysis: mRNA-seq method comparison
 # Tasks: Generate Euler diagrams of the differentially expressed genes (DEGs) 
 # comparison results.
 #-------------------------------------------------------------------------------
@@ -109,12 +109,12 @@ hdegsCombined <- ggarrange(mwPlotHDEGs, mqPlotHDEGs, lwPlotHDEGs, lqPlotHDEGs,
                            ncol = 2, nrow = 2)
 
 # Save figures as SVG files so that the positioning of the labels
-# can be tweaked manually for clarity.
+# can be adjusted manually for clarity.
 
 setwd("../80_comparison_results/")
 
-ggsave("supplementary_figure_degs_overlap_euler_diagram.svg", 
+ggsave("supplementary_figure_S9_degs_overlap_euler_diagram.svg", 
        plot = degsCombined, height = 29.7, width = 21, units = "cm")
 
-ggsave("supplementary_figure_hdegs_overlap_euler_diagram.svg", 
+ggsave("supplementary_figure_S10_hdegs_overlap_euler_diagram.svg", 
        plot = hdegsCombined, height = 29.7, width = 21, units = "cm")

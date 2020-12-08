@@ -2,8 +2,8 @@
 #
 #-------------------------------------------------------------------------------
 # Author: David Prince
-# Project: Collins et al. 2020
-# Analysis: RNA-Seq method comparison
+# Project: Collins et al. (2020)
+# Analysis: mRNA-seq method comparison
 # Tasks: Count reads mapped by HISAT2 to genes using HTSeq-count.
 #-------------------------------------------------------------------------------
 # Inputs:

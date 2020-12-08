@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Author: David Prince
-# Project: Collins et al. 2020
-# Analysis: RNA-Seq method comparison
+# Project: Collins et al. (2020)
+# Analysis: mRNA-seq method comparison
 # Tasks: Load HTSeq gene counts and create DESeq2 data set.
 #-------------------------------------------------------------------------------
 # Inputs:
@@ -29,7 +29,7 @@ library(DESeq2)  # DESeqDataSetFromHTSeqCount(), DESeq()
 
 # Specify variable that points to directory where HTSeq-count results files are.
 
-directory <- "PATH/TO/FILES/02_outputs/30_htseq_count"
+directory <- "ABSOLUTE/PATH/TO/FILES/02_outputs/30_htseq_count"
 # This string is specific to your computer, PLEASE CHANGE accordingly.
 
 # Specify sample files to read in.

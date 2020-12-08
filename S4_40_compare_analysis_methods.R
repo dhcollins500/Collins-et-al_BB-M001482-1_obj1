@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Author: David Prince
-# Project: Collins et al. 2020
-# Analysis: RNA-Seq method comparison
+# Project: Collins et al. (2020)
+# Analysis: mRNA-seq method comparison
 # Tasks: Compare differentially expressed genes (DEGs) lists from current study,
 # Kallisto pipeline and HISAT2/HTSeq pipeline.
 #-------------------------------------------------------------------------------

@@ -2,8 +2,8 @@
 #
 #-------------------------------------------------------------------------------
 # Author: David Prince
-# Project: Collins et al. 2020
-# Analysis: RNA-Seq method comparison
+# Project: Collins et al. (2020)
+# Analysis: mRNA-seq method comparison
 # Tasks: Select relevant entries from checksums files and compare with the
 # checksums generated from the downloaded files.
 #-------------------------------------------------------------------------------

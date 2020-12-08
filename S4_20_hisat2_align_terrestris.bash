@@ -2,12 +2,12 @@
 #
 #-------------------------------------------------------------------------------
 # Author: David Prince
-# Project: Collins et al. 2020
-# Analysis: RNA-Seq method comparison
-# Tasks: Align RNA-Seq reads to Bombus terrestris genome using HISAT2.
+# Project: Collins et al. (2020)
+# Analysis: mRNA-seq method comparison
+# Tasks: Align mRNA-seq reads to Bombus terrestris genome using HISAT2.
 #-------------------------------------------------------------------------------
 # Inputs:
-# HISAT2 index of the Bombus terrestris genome, raw RNA-Seq read files.
+# HISAT2 index of the Bombus terrestris genome, raw mRNA-seq read files.
 #
 # Outputs:
 # .txt files summarizing the stats of each alignment command. Sorted .bam files
@@ -29,7 +29,7 @@ module add samtools/1.10
 mkdir ../02_outputs/20_hisat2_aligned_reads
 mkdir ../02_outputs/21_hisat2_alignment_summaries
 
-# STEP 2:  ALIGN RNA-SEQ TO BOMBUS TERRESTRIS GENOME ----
+# STEP 2:  ALIGN MRNA-SEQ TO BOMBUS TERRESTRIS GENOME ----
 
 # Change working directory.
 
@@ -57,4 +57,4 @@ cd ../../02_outputs/21_hisat2_alignment_summaries
 # -n: rename report
 # -o: save report in directory 
 
-multiqc . -n hisat2_multiqc.html -o ../../02_multiqc_reports
+multiqc . -n hisat2_multiqc.html -o ../02_multiqc_reports

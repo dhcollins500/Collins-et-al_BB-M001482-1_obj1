@@ -2,16 +2,16 @@
 #
 #-------------------------------------------------------------------------------
 # Author: David Prince
-# Project: Collins et al. 2020
-# Analysis: RNA-Seq method comparison
-# Tasks: Pseudoalign RNA-Seq reads to Bombus terrestris transcriptome using
+# Project: Collins et al. (2020)
+# Analysis: mRNA-seq method comparison
+# Tasks: Pseudoalign mRNA-seq reads to Bombus terrestris transcriptome using
 # Kallisto.
 #-------------------------------------------------------------------------------
 # Inputs:
-# Kallisto index of Bombus terrestris transcriptome, raw RNA-Seq read files.
+# Kallisto index of Bombus terrestris transcriptome, raw mRNA-seq read files.
 #
 # Outputs:
-# Abundances of transcripts in each RNA-Seq file and summaries of the
+# Abundances of transcripts in each mRNA-seq file and summaries of the
 # pseudoalignments. MultiQC report of Kallisto pseudoalignment statistics.
 # Text file with study design for tximport.
 #-------------------------------------------------------------------------------
