@@ -1,0 +1,101 @@
+Supplementary File S5 Introduction
+
+Supplementary file S5 contains the scripts necesary to:
+1) reproduce the analysis of Apis mellifera mRNA-seq data from Cameron et al. (2013) and 
+He et al. (2017) with the HISAT2/HTSeq pipeline.
+2) compare the results of 1) with the HISAT2/HTSeq analysis of curent study data from supplementary
+file S4.
+3) reproduce the analysis of Bombus terrestris mRNA-Seq data from Amsalem et al. (2015) and
+identify diapause specific genes.
+4) repeat the analysis of 2) with the genes identified in 3) removed. 
+5) compare the results of 3) with the current study HISAT2/HTSeq analysis from supplementary
+file S4.
+
+The five analyses above are referred to by their number in the "subsections" line in the headers of 
+the scripts, in order to show which analysis/analyses the script belongs to.
+
+The analysis assumes that the GitHub repository has been downloaded from 
+https://github.com/dhcollins500/Collins-et-al_BB-M001482-1_obj1 
+
+Software used for analysis:
+ALFA v1.1.1 (python module)
+bedtools v2.29.2
+DESeq2 v1.28.1 (R package)
+FastQC v0.11.9
+HISAT2 v2.1.0
+HTSeq v0.11.2 (python library) 
+Kallisto v0.46.1
+MultiQC v1.9 (python module)
+python v3.7 
+R v4.0.1
+samtools v1.10
+sra v2.10.2
+
+Software used for figure generation:
+ggplot2 v3.3.2 (R package)
+ggpubr v0.4.0 (R package)
+R v4.0.1
+reshape2 v1.4.4 (R package)
+
+Overview of the numbered scripts:
+
+General note: Script S5_50 requires the user to change a file path to make it
+			  specific to their own computer. This instance is highlighted with CHANGE
+			  in the comments.
+
+Scripts S5_01 to S5_07 perform necesary preliminary tasks such as downloading genome
+related files and indexing them.
+S5_01: Initiates directory structure for the rest of the analysis, moves the scripts
+	   and lists of Sequence Read Archive (SRA) accessions into the correct directories.
+S5_02: Downloads the mRNA-seq data for Cameron et al. (2013) from the SRA.
+S5_03: Downloads the mRNA-seq data for He et al. (2017) from the SRA.
+S5_04: Downloads the mRNA-seq data for Amsalem et al. (2015) from the SRA.
+S5_05: Downloads genome sequence, GTF file, and associated checksums from Ensembl for Apis mellifera
+	and Bombus terrestris.
+S5_06: Verifies that the files downloaded from Ensembl are complete using checksums.
+S5_07: Indexes the Apis mellifera and Bombus terrestris genomes for HISAT2, and the GTF files for ALFA.
+
+Script S5_10 conducts FastQC analysis on the mRNA-seq reads for all studies downloaded from SRA,
+	and generates individual MultiQC reports for each study.
+
+Scripts S5_20 and S5_22 aligns the mRNA-Seq reads to the relevant genome using HISAT2.
+S5_20: Aligns mRNA-seq reads from Cameron et al. (2013) to the Apis mellifera genome using HISAT2,
+	and generates a MultiQC report of the alignment summeries.
+S5_21: Aligns mRNA-seq reads from He et al. (2017) to the Apis mellifera genome using HISAT2,
+	and generates a MultiQC report of the alignment summeries.
+S5_22: Aligns mRNA-seq reads from Amsalem et al. (2015) to the Bombus terrestris genome using HISAT2,
+	and generates a MultiQC report of the alignment summeries.
+
+Script S5_30 conducts ALFA analysis on the HISAT2 alignments from scripts S5_20, S5_21 and S5_22.
+
+Scripts S5_40 to S5_42 counts the reads aligned per gene with HTSeq-count.
+S5_40: Counts the reads per gene with HTSeq-count for the alignments of Cameron et al. (2013)
+	   mRNA-seq reads to the Apis mellifera genome.
+S5_41: Counts the reads per gene with HTSeq-count for the alignments of He et al. (2017) 
+	   mRNA-seq reads to the Apis mellifera genome.
+S5_42: Counts the reads per gene with HTSeq-count for the alignments of Amsalem et al. (2015) 
+	   mRNA-seq reads to the Bombus terrestris genome.
+
+Scripts S5_50 to S5_54 import the HTSeq-count reads into R, generate DESeq2 objects,
+generate diagnostic plots for the differential expression analysis, generate lists
+of differentially expressed genes (DEGs) for Cameron et al. (2013), He et al. (2017)
+and Amsalem et al. (2015), and determine diapause-specific genes.
+S5_50: Imports HTSeq results into R and then generates a DESeq2 object for each study.
+S5_51: Generates principal component analysis (PCA) and normalization boxplot for each study.
+S5_52: Generates lists of DEGs for the Apis mellifera studies (Cameron et al. (2013) and He 
+et al. (2017).
+S5_53: Generates lists of DEGs for Amsalem et al. (2015).
+S5_54: Determines which DEGs from Amsalem et al. (2015) are specifically differentially
+expressed during diapause in Bombus terrestris queens.
+
+Scripts S5_60 and S5_61 prepare the gene lists for the comparative analysis and then conducts
+the comparitive analysis between Bombus terrestris (current study) and Apis mellifera (Cameron
+et al. (2013) and He et al. (2017)) with Bombus terrestris diapause genes (Amsalem et al. (2015))
+included and excluded.
+S5_60: Prepares for the comparative analysis by copying all necessary gene lists into a new
+directory.
+S5_61: Conducts comparative analysis.
+
+Script S5_70 compares the lists of DEGs from the current study to diapause genes from Amsalem et al.
+(2015) and uses Fisher's Exact tests to determine significant overlap.
+
