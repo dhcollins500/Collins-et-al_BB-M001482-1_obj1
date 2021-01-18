@@ -25,7 +25,7 @@ library(ggpubr)  # ggarrange()
 
 # FUNCTION DEFINITIONS ----
 
-makeEulerPlot <- function(x, y = "DEGs") {
+MakeEulerPlot <- function(x, y = "DEGs") {
   # Make a Euler plot of the results of comparing the DEGs lists from the 
   # current study, Kallisto pipeline and HISAT2/HTSeq pipeline.
   #
@@ -72,27 +72,27 @@ setwd("../02_outputs/70_euler_diagram_data")
 
 # Make Plots for DEGs ----
 
-ewPlot <- makeEulerPlot("EW")
+ewPlot <- MakeEulerPlot("EW")
 
-eqPlot <- makeEulerPlot("EQ")
+eqPlot <- MakeEulerPlot("EQ")
 
-mwPlot <- makeEulerPlot("MW")
+mwPlot <- MakeEulerPlot("MW")
 
-mqPlot <- makeEulerPlot("MQ")
+mqPlot <- MakeEulerPlot("MQ")
 
-lwPlot <- makeEulerPlot("LW")
+lwPlot <- MakeEulerPlot("LW")
 
-lqPlot <- makeEulerPlot("LQ")
+lqPlot <- MakeEulerPlot("LQ")
 
 # Make Plots for HDEGs ----
 
-mwPlotHDEGs <- makeEulerPlot("MW", "HDEGs")
+mwPlotHDEGs <- MakeEulerPlot("MW", "HDEGs")
 
-mqPlotHDEGs <- makeEulerPlot("MQ", "HDEGs")
+mqPlotHDEGs <- MakeEulerPlot("MQ", "HDEGs")
 
-lwPlotHDEGs <- makeEulerPlot("LW", "HDEGs")
+lwPlotHDEGs <- MakeEulerPlot("LW", "HDEGs")
 
-lqPlotHDEGs <- makeEulerPlot("LQ", "HDEGs")
+lqPlotHDEGs <- MakeEulerPlot("LQ", "HDEGs")
 
 # Combine the Plots into Figures ----
 
