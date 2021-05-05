@@ -83,7 +83,7 @@ and Amsalem et al. (2015), and determine diapause-specific genes.
 S5_50: Imports HTSeq results into R and then generates a DESeq2 object for each study.
 S5_51: Generates principal component analysis (PCA) and normalization boxplot for each study.
 S5_52: Generates lists of DEGs for the Apis mellifera studies (Cameron et al. (2013) and He 
-et al. (2017).
+et al. (2017)).
 S5_53: Generates lists of DEGs for Amsalem et al. (2015).
 S5_54: Determines which DEGs from Amsalem et al. (2015) are specifically differentially
 expressed during diapause in Bombus terrestris queens.
