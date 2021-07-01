@@ -17,7 +17,7 @@
 # CHECKSUMS files for the downloaded files.
 #-------------------------------------------------------------------------------
 
-# STEP 1: DOWNLOAD AND UNZIP AMEL GENOMNE FASTA FILE ----
+# STEP 1: DOWNLOAD AND UNZIP AMEL GENOME FASTA FILE ----
 
 # NOTE: This script assumes that the working directory is the 01_scripts subdirectory
 # created by script S5_01.
