@@ -41,8 +41,8 @@ makeFigure <- function(x) {
   # boxplot.
   #
   # Args:
-  #   x = string denoting whether ddsKallisto or ddsHTSeq should be used
-  #       to make the plots ("Kallisto" or "HTSeq").
+  #   x: string denoting whether ddsKallisto or ddsHTSeq should be used
+  #      to make the plots ("Kallisto" or "HTSeq").
   #
   # Returns:
   #   A .svg file of the two plots together as a figure
